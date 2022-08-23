@@ -1,6 +1,6 @@
-> „Coalsoft píše systémy. Jak se ale píše coalsoft?“
+> „Coalios píše systémy. Jak se ale píše coalios?“
 
-V případě značky coalsoft využíváme dvě rodiny typu písma. Rozdělujeme
+V případě značky coalios využíváme dvě rodiny typu písma. Rozdělujeme
 jej na primární a sekundární. Primární typ písma, neboli primární font, patří do rodiny
 patkových. Sekundární naopak do kategorie bezpatkových. Primární font využívame
 zejména pro nadpisy, sekundární spíše pro odstavcový text.

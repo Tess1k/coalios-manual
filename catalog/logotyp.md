@@ -2,7 +2,7 @@
 
 Logo je jistě nejdůležitějším prvkem v případě vizuální identity značky. Proto je důležité, aby jeho pravidla byla dodržována. Ze zásady má logo dvě hlavní varianty, resp. dvě orientace. První je orientace v poměru 1 : 1 - na čtvrec, druhá orientace na obdélník - v poměru 3 : 1. Využití vždy závisí na cílovém formátu.
 
-Níže naleznete veškeré možné variace loga společnosti coalsoft. Každé logo je složeno ze dvou prvků - symbolu a textu. V následujících sekcích je uveden ještě samotný symbol, který lze využít jako samostatný prvek. Logo je rozděleno na dvě orientace, každá z těchto mutací má dvě barevné varianty - barevnou a prostou. U barevných log je symbol modrý, u prostých je celé logo jednou barvou. Prostá loga lze v případě nutnosti přebarvovat na jiné barvy.
+Níže naleznete veškeré možné variace loga společnosti coalios. Každé logo je složeno ze dvou prvků - symbolu a textu. V následujících sekcích je uveden ještě samotný symbol, který lze využít jako samostatný prvek. Logo je rozděleno na dvě orientace, každá z těchto mutací má dvě barevné varianty - barevnou a prostou. U barevných log je symbol modrý, u prostých je celé logo jednou barvou. Prostá loga lze v případě nutnosti přebarvovat na jiné barvy.
 
 ## Barevný symbol (1 : 1)
 > Symbol je doplňkovou variantou, kterou lze použít samosatně. Barevný symbol by se neměl přebarvovat a lze použít na bílém a čeném podkladu.

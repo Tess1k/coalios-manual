@@ -1,8 +1,8 @@
 > „Grafikův věrný pomocník pro práci se značkou!“
 
-Následující stránky tohoto webu nabízí zjednodušená pravidla a prvky ke stažení. V níže přiloženém PDF souboru naleznete podrobný grafický manuál s doplňkovými kapitolami, které dále rozšířují práci s designem společnosti coalsoft. Tento manuál je také hlavním opěrným bodem práce se značkou.
+Následující stránky tohoto webu nabízí zjednodušená pravidla a prvky ke stažení. V níže přiloženém PDF souboru naleznete podrobný grafický manuál s doplňkovými kapitolami, které dále rozšířují práci s designem společnosti coalios. Tento manuál je také hlavním opěrným bodem práce se značkou.
 
-V případě rozsáhlých grafických prací zahrnující značku coalsoft doporučujeme používat plný grafický manuál.
+V případě rozsáhlých grafických prací zahrnující značku coalios doporučujeme používat plný grafický manuál.
 
 
 

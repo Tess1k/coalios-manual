@@ -1,6 +1,6 @@
 > „Věčný boj ajťáků - světlé nebo tmavé téma? Nebo snad oboje?“
 
-Pro značku coalsoft byly vybrány následující tři primární barvy. Od těchto barev je
+Pro značku coalios byly vybrány následující tři primární barvy. Od těchto barev je
 možné v případě potřeby odvozovat barvy doplňkové s přihlédnutím k dobrému vkusu
 a zachování barevné harmonie. V této kapitole se budeme věnovat definici těchto
 barev, popíšeme vhodné použití a uvedeme jejich barevné kódy.
@@ -8,19 +8,19 @@ barev, popíšeme vhodné použití a uvedeme jejich barevné kódy.
 ## Primární a sekundární barvy
 > jejich použití, HEX, RGB a CMYK kódy
 
-#### Nebeská modrá
-Nebeská modrá je základní barvou značky, používá se ve znaku loga, i jako barva dekorací. Lze použít i jako barva podkladová za zachování dobrého vkusu.
+#### Oranžová
+Oranžová je základní barvou značky, používá se ve znaku loga, i jako barva dekorací. Lze použít i jako barva podkladová za zachování dobrého vkusu.
 
 #### Bílá
-Pro práci s materiály značky coalsoft je bílá doporučována jako hlavní podkladová barva. Inverzní barevný model využívejte co nejméně.
+Pro práci s materiály značky coalios je bílá doporučována jako hlavní podkladová barva. Inverzní barevný model využívejte co nejméně.
 
 #### Tmavá šedá
 Tato téměř černá barva (označována však jako tmavá šedá) se používá jako barva textů. Pakliže využíváme inverzní model, lze ji použít jako barvu podkladu.
 
 ```color
 span: 3
-name: "Nebeská modrá"
-value: "#00B5E2"
+name: "Oranžová"
+value: "#FF9E1B"
 ```
 
 ```color
@@ -38,10 +38,10 @@ value: "#27251F"
 ```table
 span: 6
 rows:
-  - Barva: Nebeská modrá
+  - Barva: Oranžová
     HEX kód: "#00B5E2"
-    RGB kód: 0/181/226
-    CMYK kód: 75/0/5/0
+    RGB kód: 255/158/27
+    CMYK kód: 0/45/94/0
   - Barva: Bílá
     HEX kód: "#FFFFFF"
     RGB kód: 255/255/255

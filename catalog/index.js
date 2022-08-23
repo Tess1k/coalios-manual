@@ -99,6 +99,6 @@ const pages = [
 ];
 
 ReactDOM.render(
-  <Catalog title="coalsoft" pages={pages} theme={theme} logoSrc="/src/logo/coalsoft_logo_header.png"/>,
+  <Catalog title="coalios" pages={pages} theme={theme} logoSrc="/src/logo/coalsoft_logo_header.png"/>,
   document.getElementById("catalog")
 );

@@ -1,9 +1,9 @@
-> „Identita coalsoftu je unikátní, jako jsou jejich softwarová řešení.“
+> „Identita coaliosu je unikátní, jako jsou jejich softwarová řešení.“
 
-Pro značku coalsoft byly vytvořeny 2 základní doplňkové grafické prvky, které
+Pro značku coalios byly vytvořeny 2 základní doplňkové grafické prvky, které
 dokreslují vizuální identitu značky. Měly by sloužit jako inspirace, ze které mohou
 vycházet další prvky respektující zásady těchto 2 originálních. Všechny prvky jsou
-založené na symbolu značky coalsoft.
+založené na symbolu značky coalios.
 
 ## Dekorativní pruh
 > Dekorativní pruh vycházející z antických vzorků využívající symbol z loga jako základ. Pruh využíváme hlavně ve svislé poloze.
