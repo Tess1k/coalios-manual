@@ -10,13 +10,13 @@ Níže naleznete veškeré možné variace loga společnosti coalios. Každé lo
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_icon-color.png"
+src: "src/logo/coalios_logo_icon-color.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_icon-color.png"
+src: "src/logo/coalios_logo_icon-color.png"
 ```
 
 ## Prostý symbol (1 : 1)
@@ -25,13 +25,13 @@ src: "src/logo/coalsoft_logo_icon-color.png"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_icon-black.png"
+src: "src/logo/coalios_logo_icon-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_icon-white.png"
+src: "src/logo/coalios_logo_icon-white.png"
 ```
 
 ## Barevné logo (1 : 1)
@@ -40,15 +40,15 @@ src: "src/logo/coalsoft_logo_icon-white.png"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_square-color-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_square-color-black.png"
+src: "src/logo/coalios_logo_square_color-black.png"
+overlay: "src/logo/overlay/coalios_logo_square_color-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_square_color-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_color-white.png"
+src: "src/logo/coalios_logo_square_color-white.png"
+overlay: "src/logo/overlay/coalios_logo_square_color-white.png"
 ```
 
 ## Prosté logo (1 : 1)
@@ -57,15 +57,15 @@ overlay: "src/logo/overlay/coalsoft_logo_square_color-white.png"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_square_mono-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_mono-black.png"
+src: "src/logo/coalios_logo_square_mono-black.png"
+overlay: "src/logo/overlay/coalios_logo_square_mono-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_square_mono_white.png"
-overlay: "src/logo/overlay/coalsoft_logo_square_mono_white.png"
+src: "src/logo/coalios_logo_square_mono-white.png"
+overlay: "src/logo/overlay/coalios_logo_square_mono-white.png"
 ```
 
 ## Barevné logo (3 : 1)
@@ -74,15 +74,15 @@ overlay: "src/logo/overlay/coalsoft_logo_square_mono_white.png"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_long_color-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_color-black.png"
+src: "src/logo/coalios_logo_long_color-black.png"
+overlay: "src/logo/overlay/coalios_logo_long_color-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_long_color-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_color-white.png"
+src: "src/logo/coalios_logo_long_color-white.png"
+overlay: "src/logo/overlay/coalios_logo_long_color-white.png"
 ```
 
 ## Prosté logo (3 : 1)
@@ -91,15 +91,15 @@ overlay: "src/logo/overlay/coalsoft_logo_long_color-white.png"
 ```image
 scale: true
 span: 3
-src: "src/logo/coalsoft_logo_long_mono-black.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_mono-black.png"
+src: "src/logo/coalios_logo_long_mono-black.png"
+overlay: "src/logo/overlay/coalios_logo_long_mono-black.png"
 ```
 ```image
 scale: true
 span: 3
 dark: true
-src: "src/logo/coalsoft_logo_long_mono-white.png"
-overlay: "src/logo/overlay/coalsoft_logo_long_mono-white.png"
+src: "src/logo/coalios_logo_long_mono-white.png"
+overlay: "src/logo/overlay/coalios_logo_long_mono-white.png"
 ```
 ### Logotyp ke stažení
 ```download
