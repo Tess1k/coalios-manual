@@ -1,0 +1,14 @@
+{
+  "name": "web-catalog",
+  "description": "",
+  "dependencies": {
+    "catalog": "^3.6.2",
+    "npm-shrinkwrap": "^6.1.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "scripts": {
+    "catalog-start": "catalog start",
+    "catalog-build": "catalog build"
+  }
+}
