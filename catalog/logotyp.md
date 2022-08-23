@@ -103,7 +103,7 @@ overlay: "src/logo/overlay/coalios_logo_long_mono-white.png"
 ```
 ### Logotyp ke stažení
 ```download
-title: coalsoft logotyp (.zip)
+title: coalios logotyp (.zip)
 subtitle: 660 KB | JPG, PNG, SVG, PDF
-url: assets/coalsoft_logotyp.zip
+url: assets/coalios_logotyp.zip
 ```

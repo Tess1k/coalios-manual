@@ -11,13 +11,13 @@ založené na symbolu značky coalios.
 ```image
 plain: true
 scale: true
-src: "src/visual-elements/coalsoft_pruh.png"
+src: "src/visual-elements/coalios_pruh.png"
 ```
 ```download
 title: Dekoratvní pruh (.png)
 span: 2
 subtitle: 25 KB
-url: assets/coalsoft_pruh.png
+url: assets/coalios_pruh.png
 ```
 
 ## Dekorativní pruh průhledný
@@ -26,11 +26,11 @@ url: assets/coalsoft_pruh.png
 ```image
 plain: true
 scale: true
-src: "src/visual-elements/coalsoft_pruh_transparent.png"
+src: "src/visual-elements/coalios_pruh_transparent.png"
 ```
 ```download
 title: Dekoratvní pruh průhledný (.png)
 span: 2
 subtitle: 25 KB
-url: assets/coalsoft_pruh_transparent.png
+url: assets/coalios_pruh_transparent.png
 ```
