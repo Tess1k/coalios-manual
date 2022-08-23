@@ -9,8 +9,8 @@ V případě rozsáhlých grafických prací zahrnující značku coalios doporu
 ```download
 title: Grafický manuál (.pdf)
 span: 6
-subtitle: 9.6 MB | 36 stran, 19 dvoustran
-url: assets/coalsoft_graficky-manual_digital.pdf
+subtitle: 9.8 MB | 36 stran, 19 dvoustran
+url: assets/coalios_graficky-manual_digital.pdf
 ```
 
 
