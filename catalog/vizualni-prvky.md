@@ -15,8 +15,9 @@ src: "src/visual-elements/coalios_pruh.png"
 ```
 ```download
 title: Dekoratvní pruh (.png)
+filename: coalios_pruh.png
 span: 2
-subtitle: 25 KB
+subtitle: 25 kB
 url: assets/coalios_pruh.png
 ```
 
@@ -30,7 +31,8 @@ src: "src/visual-elements/coalios_pruh_transparent.png"
 ```
 ```download
 title: Dekoratvní pruh průhledný (.png)
+filename: coalios_pruh_transparent.png
 span: 2
-subtitle: 25 KB
+subtitle: 25 kB
 url: assets/coalios_pruh_transparent.png
 ```

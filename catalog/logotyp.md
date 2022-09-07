@@ -19,6 +19,30 @@ dark: true
 src: "src/logo/coalios_logo_icon-color.png"
 ```
 
+### Ke stažení
+```download
+title: Barevný symbol (.png)
+filename: coalios_logo_icon-color.png
+subtitle: 10 kB
+span: 2
+url: "src/logo/coalios_logo_icon-color.png"
+```
+```download
+title: Barevný symbol (.svg)
+filename: coalios_logo_icon-color.svg
+subtitle: 370 B
+span: 2
+url: src/logo/svg/coalios_logo_icon-color.svg
+```
+```download
+title: Barevný symbol (.pdf)
+filename: coalios_logo_icon-color.pdf
+subtitle: 25 kB
+span: 2
+url: src/logo/pdf/coalios_logo_icon-color.pdf
+```
+
+
 ## Prostý symbol (1 : 1)
 > Prostý symbol se používá za potřeby dosáhnutí zvýšeného kontrastu a je vhodný k použtí na jakémkoliv podkladu. Nemělo by dojít k jeho přebarvení.
 
@@ -32,6 +56,52 @@ scale: true
 span: 3
 dark: true
 src: "src/logo/coalios_logo_icon-white.png"
+```
+
+### Ke stažení
+#### Tmavý symbol
+```download
+title: Tmavý symbol (.png)
+filename: coalios_logo_icon-black.png
+subtitle: 10 kB
+span: 2
+url: "src/logo/coalios_logo_icon-black.png"
+```
+```download
+title: Tmavý symbol (.svg)
+filename: coalios_logo_icon-black.svg
+subtitle: 370 B
+span: 2
+url: "src/logo/svg/coalios_logo_icon-black.svg"
+```
+```download
+title: Tmavý symbol (.pdf)
+filename: coalios_logo_icon-black.pdf
+subtitle: 25 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_icon-black.pdf"
+```
+#### Světlý symbol
+```download
+title: Světlý symbol (.png)
+filename: coalios_logo_icon-white.png
+subtitle: 10 kB
+span: 2
+url: "src/logo/coalios_logo_icon-white.png"
+```
+```download
+title: Světlý symbol (.svg)
+filename: coalios_logo_icon-white.svg
+subtitle: 370 B
+span: 2
+url: "src/logo/svg/coalios_logo_icon-white.svg"
+```
+```download
+title: Světlý symbol (.pdf)
+filename: coalios_logo_icon-white.pdf
+subtitle: 25 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_icon-white.pdf"
 ```
 
 ## Barevné logo (1 : 1)
@@ -51,6 +121,52 @@ src: "src/logo/coalios_logo_square_color-white.png"
 overlay: "src/logo/overlay/coalios_logo_square_color-white.png"
 ```
 
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze barevného loga (.png)
+filename: coalios_logo_square_color-black.png
+subtitle: 17 kB
+span: 2
+url: "src/logo/coalios_logo_square_color-black.png"
+```
+```download
+title: Tmavá verze barevného loga (.svg)
+filename: coalios_logo_square_color-black.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalios_logo_square_color-black.svg"
+```
+```download
+title: Tmavá verze barevného loga (.pdf)
+filename: coalios_logo_square_color-black.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_square_color-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze barevného loga (.png)
+filename: coalios_logo_square_color-white.png
+subtitle: 16 kB
+span: 2
+url: "src/logo/coalios_logo_square_color-white.png"
+```
+```download
+title: Světlá verze barevného loga (.svg)
+filename: coalios_logo_square_color-white.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalios_logo_square_color-white.svg"
+```
+```download
+title: Světlá verze barevného loga (.pdf)
+filename: coalios_logo_square_color-white.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_square_color-white.pdf"
+```
+
 ## Prosté logo (1 : 1)
 > Prostá verze loga obsahuje jednu barvu. Pakliže je potřeba logo přebarvit na jinou barvu (např. umítění na cizím podkladu), využíváme toto logo.
 
@@ -66,6 +182,52 @@ span: 3
 dark: true
 src: "src/logo/coalios_logo_square_mono-white.png"
 overlay: "src/logo/overlay/coalios_logo_square_mono-white.png"
+```
+
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze prostého loga (.png)
+filename: coalios_logo_square_mono-black.png
+subtitle: 17 kB
+span: 2
+url: "src/logo/coalios_logo_square_mono-black.png"
+```
+```download
+title: Tmavá verze prostého loga (.svg)
+filename: coalios_logo_square_mono-black.svg
+subtitle: 3 kB
+span: 2
+url: "src/logo/svg/coalios_logo_square_mono-black.svg"
+```
+```download
+title: Tmavá verze prostého loga (.pdf)
+filename: coalios_logo_square_mono-black.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_square_mono-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze prostého loga (.png)
+filename: coalios_logo_square_mono-white.png
+subtitle: 16 kB
+span: 2
+url: "src/logo/coalios_logo_square_mono-white.png"
+```
+```download
+title: Světlá verze prostého loga (.svg)
+filename: coalios_logo_square_mono-white.svg
+subtitle: 3 kB
+span: 2
+url: "src/logo/svg/coalios_logo_square_mono-white.svg"
+```
+```download
+title: Světlá verze prostého loga (.pdf)
+filename: coalios_logo_square_mono-white.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_square_mono-white.pdf"
 ```
 
 ## Barevné logo (3 : 1)
@@ -84,6 +246,51 @@ dark: true
 src: "src/logo/coalios_logo_long_color-white.png"
 overlay: "src/logo/overlay/coalios_logo_long_color-white.png"
 ```
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze barevného loga (.png)
+filename: coalios_logo_long_color-black.png
+subtitle: 21 kB
+span: 2
+url: "src/logo/coalios_logo_long_color-black.png"
+```
+```download
+title: Tmavá verze barevného loga (.svg)
+filename: coalios_logo_long_color-black.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalios_logo_long_color-black.svg"
+```
+```download
+title: Tmavá verze barevného loga (.pdf)
+filename: coalios_logo_long_color-black.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_long_color-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze barevného loga (.png)
+filename: coalios_logo_long_color-white.png
+subtitle: 21 kB
+span: 2
+url: "src/logo/coalios_logo_long_color-white.png"
+```
+```download
+title: Světlá verze barevného loga (.svg)
+filename: coalios_logo_long_color-white.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalios_logo_long_color-white.svg"
+```
+```download
+title: Světlá verze barevného loga (.pdf)
+filename: coalios_logo_long_color-white.pdf
+subtitle: 27 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_long_color-white.pdf"
+```
 
 ## Prosté logo (3 : 1)
 > Prostá verze loga obsahuje jednu barvu. Pakliže je potřeba logo přebarvit na jinou barvu (např. umítění na cizím podkladu), využíváme toto logo.
@@ -101,9 +308,55 @@ dark: true
 src: "src/logo/coalios_logo_long_mono-white.png"
 overlay: "src/logo/overlay/coalios_logo_long_mono-white.png"
 ```
-### Logotyp ke stažení
+### Ke stažení
+#### Tmavá verze
+```download
+title: Tmavá verze prostého loga (.png)
+filename: coalios_logo_long_mono-black.png
+subtitle: 21 kB
+span: 2
+url: "src/logo/coalios_logo_long_mono-black.png"
+```
+```download
+title: Tmavá verze prostého loga (.svg)
+filename: coalios_logo_long_mono-black.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalios_logo_long_mono-black.svg"
+```
+```download
+title: Tmavá verze prostého loga (.pdf)
+filename: coalios_logo_long_mono-black.pdf
+subtitle: 31 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_long_mono-black.pdf"
+```
+#### Světlá verze
+```download
+title: Světlá verze prostého loga (.png)
+filename: coalios_logo_long_mono-white.png
+subtitle: 19 kB
+span: 2
+url: "src/logo/coalios_logo_long_mono-white.png"
+```
+```download
+title: Světlá verze prostého loga (.svg)
+filename: coalios_logo_long_mono-white.svg
+subtitle: 4 kB
+span: 2
+url: "src/logo/svg/coalios_logo_long_mono-white.svg"
+```
+```download
+title: Světlá verze prostého loga (.pdf)
+filename: coalios_logo_long_mono-white.pdf
+subtitle: 31 kB
+span: 2
+url: "src/logo/pdf/coalios_logo_long_mono-white.pdf"
+```
+
+## Kompletní logotyp ke stažení
 ```download
 title: coalios logotyp (.zip)
-subtitle: 660 KB | JPG, PNG, SVG, PDF
+subtitle: 660 kB | JPG, PNG, SVG, PDF
 url: assets/coalios_logotyp.zip
 ```
